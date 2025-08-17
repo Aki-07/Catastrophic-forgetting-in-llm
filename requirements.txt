@@ -1,0 +1,11 @@
+torch
+numpy
+scikit-learn
+matplotlib
+tqdm
+transformers>=4.41
+datasets
+accelerate
+peft
+sentencepiece   
+protobuf    

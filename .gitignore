@@ -1,0 +1,16 @@
+checkpoints/
+outputs/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+*.pth
+*.pt
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
